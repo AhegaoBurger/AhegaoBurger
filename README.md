@@ -3,7 +3,7 @@
 - 🌱 I'm FullStack Developer specializing in JavaScript/TypeScript, React/Next/Angular, MongoDb, Express.js and Firebase.
      I love coding, I'm always studying, researching and I develop with a focus on user experience, creating responsive WebApps, LandingPages,
      Customized Systems/Dashboards and Websites.
-- 🌐 How to reach me: [Your LinkedIn URL here]
+- 🌐 How to reach me: https://www.linkedin.com/in/artur-shirokov-9b9454252
 
 <div align="center">
   <a href="https://github.com/AhegaoBurger">
